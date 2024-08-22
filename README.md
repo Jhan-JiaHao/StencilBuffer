@@ -25,4 +25,5 @@
 ## Usage
 
 # Maintainers
-[@Digispace](https://github.com/XRDigispace).[@JiaHao](https://github.com/Jhan-JiaHao).
+* [@Digispace](https://github.com/XRDigispace)
+* [@Depstruct](https://github.com/Depstruct)
