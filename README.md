@@ -23,7 +23,9 @@
 * Unity：URP 2022.3 up
 ## Usage
 
-1.將下載下來的"StencilBuffer.unitypackage"Import至專案，在Assets/Plugins/StencilBuffer路徑打開SampleScene
+1.將下載下來的"StencilBuffer.unitypackage"導入至Unity專案，在Assets/Plugins/StencilBuffer路徑打開SampleScene
+![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_001.png)
+2.
 
 
 
