@@ -23,6 +23,7 @@
 * Unity：URP 2022.3 up
 ## Usage
 
+1.將下載下來的StencilBuffer.unitypackage
 
 
 ## Back
