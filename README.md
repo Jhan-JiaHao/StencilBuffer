@@ -26,7 +26,7 @@
 ## Usage
 
 ## Back
- >* [GeneralAssets](https://github.com/Jhan-JiaHao/GeneralAssets)
+* [GeneralAssets](https://github.com/Jhan-JiaHao/GeneralAssets)
 # Maintainers
 * [@Digispace](https://github.com/XRDigispace)
 * [@Depstruct](https://github.com/Depstruct)
