@@ -25,9 +25,10 @@
 
 1.將下載下來的"StencilBuffer.unitypackage"導入至Unity專案，在Assets/Plugins/StencilBuffer路徑打開SampleScene
 ![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_001.png)
-2.打開File/ProjectSettings，並確定其中的Quality/Rendering/Render Pipeline Asset指定為
+2.打開Edit/Project Settings，並確定其中的Quality/Rendering/Render Pipeline Asset指定為Assets/Settings/CustomSetting/URP-Stencil
 ![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_002.png)
-
+3.以SampleScene為例，場景為一個立方體物件，其中四個面向的Plane只顯示特定物件的需求，我們需要針對四個面進行材質的相關設定，並配合layer設置已達到此效果
+![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_003.png)
 
 ## Back
 * [GeneralAssets](https://github.com/Jhan-JiaHao/GeneralAssets)
