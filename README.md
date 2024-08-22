@@ -44,7 +44,13 @@
 ![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_005-2.png)
 6.最後我們確認Stencil 1 Opaque (Render Objects)、Stencil 2 Opaque (Render Objects)、Stencil 3 Opaque (Render Objects)、Stencil 4 Opaque (Render Objects)的相關設定
 ![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_006.png)
-7.
+7.我們將設定依據紅框處設定即可(如圖)
+![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_007.png)
+
+8.其中需特別注意的是Stencil中的Value值，需對應我們Assign給顯示面的材質球ID(如圖)
+
+![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_008.gif)
+
 ## Back
 * [GeneralAssets](https://github.com/Jhan-JiaHao/GeneralAssets)
 # Maintainers
