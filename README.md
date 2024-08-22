@@ -25,7 +25,7 @@
 
 1.將下載下來的"StencilBuffer.unitypackage"導入至Unity專案，在Assets/Plugins/StencilBuffer路徑打開SampleScene
 ![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_001.png)
-2.打開File/ProjectSettings，並
+2.打開File/ProjectSettings，並確定其中的Quality/Rendering/Render Pipeline Asset指定為
 ![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_002.png)
 
 
