@@ -59,6 +59,11 @@
 
 ![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_009.gif)
 
+總結：
+我們大致可以這樣簡單理解，將物件個別想像為"只顯示某物件的平面"和"只被某顯示平面顯示的物件"，我們將前者Assign帶有Stencil ID的材質球，並賦予其指定ID編號，後者我們將其利用物件的Layer和場景其他物件做渲染區隔，最後再利用Render Setting裡將兩者各自對應的Stencil ID和Layer綁定在一起，即可做到指定物件只會被指定的平面給予渲染出畫面。
+
+最後祝一切順利，Enioy it! :)
+
 ## Back
 * [GeneralAssets](https://github.com/Jhan-JiaHao/GeneralAssets)
 # Maintainers
