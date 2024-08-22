@@ -39,8 +39,10 @@
 
 ![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_004-2.gif)
 
-5.
-
+5.接著我們確認Assets/Settings/CustomSetting/URP-Stencil-Renderer的設定，Opaque Layer Mask及Transparent Layer Mask中，StencilLayer001-004皆不勾選(如圖所示)
+![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_005-1.gif)
+![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_005-2.gif)
+6.
 ## Back
 * [GeneralAssets](https://github.com/Jhan-JiaHao/GeneralAssets)
 # Maintainers
