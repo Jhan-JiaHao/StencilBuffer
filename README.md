@@ -51,6 +51,14 @@
 
 ![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_008.gif)
 
+9.當我們將一切設定好，它就能順利運作
+
+![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_000.gif)
+
+10.我們也可以將其套用在其他應用上
+
+![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_000.gif)
+
 ## Back
 * [GeneralAssets](https://github.com/Jhan-JiaHao/GeneralAssets)
 # Maintainers
