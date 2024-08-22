@@ -47,7 +47,9 @@
 7.我們將設定依據紅框處設定即可(如圖)
 ![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_007.png)
 8.其中需特別注意的是Stencil中的Value值，需對應我們Assign給顯示面的材質球ID(如圖)
+
 ![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_008.gif)
+
 ## Back
 * [GeneralAssets](https://github.com/Jhan-JiaHao/GeneralAssets)
 # Maintainers
