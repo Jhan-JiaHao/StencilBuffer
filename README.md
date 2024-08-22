@@ -57,7 +57,7 @@
 
 10.我們也可以將其套用在其他應用上
 
-![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_000.gif)
+![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_009.gif)
 
 ## Back
 * [GeneralAssets](https://github.com/Jhan-JiaHao/GeneralAssets)
