@@ -26,4 +26,5 @@
 
 # Maintainers
 * [@Digispace](https://github.com/XRDigispace)
+* [@Depstruct](https://github.com/Depstruct)
 * [@JiaHao](https://github.com/Jhan-JiaHao)
