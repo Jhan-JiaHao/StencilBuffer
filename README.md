@@ -2,7 +2,7 @@
 
 ![GitHub releases](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/Img/StencilBuffer_000.gif)
 
-> StencilBuffer(模板)主要應用於改變被Assign物件的渲染狀態，最常見的用例是利用其效果屏蔽其他Shader的渲染顯示，使其只會被特定物件渲染。
+> StencilBuffer(模板)主要應用於改變被Assign物件的渲染狀態，最常見的用例是利用其效果屏蔽其他Shader的渲染顯示，使其只會顯示被Assign特定Layer的物件渲染顯示。
 
 # Table of contents
 
